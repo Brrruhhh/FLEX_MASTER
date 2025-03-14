@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "./static/css/main.78e63add.chunk.css",
+    "main.js": "./static/js/main.d2c68ae1.chunk.js",
+    "main.js.map": "./static/js/main.d2c68ae1.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.3d02b6c8.js",
+    "runtime-main.js.map": "./static/js/runtime-main.3d02b6c8.js.map",
+    "static/js/2.5591f8e5.chunk.js": "./static/js/2.5591f8e5.chunk.js",
+    "static/js/2.5591f8e5.chunk.js.map": "./static/js/2.5591f8e5.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.bec65059d3087182218e9e12c5196f13.js": "./precache-manifest.bec65059d3087182218e9e12c5196f13.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/main.78e63add.chunk.css.map": "./static/css/main.78e63add.chunk.css.map",
+    "static/js/2.5591f8e5.chunk.js.LICENSE.txt": "./static/js/2.5591f8e5.chunk.js.LICENSE.txt",
+    "static/media/index.css": "./static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/alkhidmat.webp": "./static/media/alkhidmat.2bc528f8.webp",
+    "static/media/belkasoft.png": "./static/media/belkasoft.a1711020.png",
+    "static/media/boy.png": "./static/media/boy.258aceed.png",
+    "static/media/contactMail.png": "./static/media/contactMail.5f915405.png",
+    "static/media/all.css": "./static/media/fa-solid-900.8e4a6dcc.eot",
+    "static/media/fast.png": "./static/media/fast.2b9d6c7b.png",
+    "static/media/fcs.jpeg": "./static/media/fcs.6dc9f5e4.jpeg",
+    "static/media/fiver.png": "./static/media/fiver.cbf1e52e.png",
+    "static/media/gcp_logo.png": "./static/media/gcp_logo.0ee7e8c9.png",
+    "static/media/github_logo.png": "./static/media/github_logo.6eeb2e81.png",
+    "static/media/ibm_logo.png": "./static/media/ibm_logo.d3fccbe1.png",
+    "static/media/man.png": "./static/media/man.d97a5463.png",
+    "static/media/myimage.JPG": "./static/media/myimage.c86035ed.JPG",
+    "static/media/tryhackme.png": "./static/media/tryhackme.24efee4f.png",
+    "static/media/tryhackme.webp": "./static/media/tryhackme.46994e2e.webp"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3d02b6c8.js",
+    "static/js/2.5591f8e5.chunk.js",
+    "static/css/main.78e63add.chunk.css",
+    "static/js/main.d2c68ae1.chunk.js"
+  ]
+}
